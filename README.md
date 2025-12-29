@@ -75,9 +75,14 @@ This work was inspired by a previous work of the author in which variants of the
 [13] Esteban Moro. The minority game: an introductory guide. arXiv preprint cond-mat/0402651, 2004. 
 
 [14 Daehyeon Park, Doojin Ryu, and Robert I Webb. Fear of missing out and market stability: A networked minority game approach. Physica A: Statistical Mechanics and its Applications, 634:129420, 2024. 
+
 [15] Shermila Ranadheera, Setareh Maghsudi, and Ekram Hossain. Minority games with applications to distributed decision making and control in wireless networks. IEEE Wireless Communications, 24(5):184–
 192, 2017. 
+
 [16] Lihui Shang and Xiao Fan Wang. Evolutionary minority game on complex networks. Physica A: Statistical Mechanics and its Applications, 377(2):616–624, 2007. 
+
 [17] Steven H Strogatz. Exploring complex networks. nature, 410(6825):268–276, 2001.
+
 [18] Mieko Tanaka-Yamawaki and Seiji Tokuoka. Minority game as a model for the artificial financial markets. In 2006 IEEE International Conference on Evolutionary Computation, pages 2157–2162. IEEE, 2006. 
+
 [19] Si Zhang, Hanghang Tong, Jiejun Xu, and Ross Maciejewski. Graph convolutional networks: a comprehensive review. Computational Social Networks, 6(1):1–23, 2019. 
