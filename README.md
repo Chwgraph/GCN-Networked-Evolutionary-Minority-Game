@@ -12,13 +12,13 @@ $$h^{l+1}_{i}=\sigma(\sum_{j \in N(i) \cup \{i\}} \frac{1}{\sqrt{d_i d_j}} W^{(l
 
 where
 
-\begin{itemize}
+$\begin{itemize}
     \item $h^{l}_{i}$: feature vector of node $i$ at layer $l$;
     \item $N(i)$: neighbors of node $i$;
     \item $d_i, d_j$: degrees of node $i$ and $j$;
     \item $W^{(l)}$: learnable weight matrix at layer $l$;
     \item $\sigma$: activation function, in our experiments we use $ReLU$;
-\end{itemize}
+\end{itemize}$
 
 $\textbf{Full}$ $\textbf{Network}$ $\textbf{GCN}$: The full network GCN processes the entire graph structure simultaneously. It consists of three graph convolutional layers followed by a fully connected output layer. We use the full network GCN to simulate an agent with global information in the game.
 
