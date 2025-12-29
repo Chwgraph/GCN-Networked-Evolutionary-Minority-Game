@@ -48,20 +48,32 @@ This work was inspired by a previous work of the author in which variants of the
 
 # References
 [1] Gian Italo Bischi and Ugo Merlone. Evolutionary minority games with memory. Journal of Evolutionary Economics, 27(5):859–875, 2017. 
+
 [2] Stefano Boccaletti, Vito Latora, Yamir Moreno, Martin Chavez, and D-U Hwang. Complex networks: Structure and dynamics. Physics reports, 424(4-5):175–308, 2006. 
+
 [3] John Adrian Bondy, Uppaluri Siva Ramachandra Murty, et al. Graph theory with applications, volume 290. Macmillan London, 1976. 
+
 [4] Enrique Burgos, Horacio Ceva, and Roberto PJ Perazzo. The evolutionary minority game with local coordination. Physica A: Statistical Mechanics and its Applications, 337(3-4):635–644, 2004. 
+
 [5] Délida Inés Caridi. Properties of interaction networks underlying the minority game. 2014. 
+
 [6] Damien Challet and Y-C Zhang. Emergence of cooperation and organization in an evolutionary game. Physica A: Statistical Mechanics and its Applications, 246(3-4):407–418, 1997. 
+
 [7] Shahar Hod and Ehud Nakar. Evolutionary minority game: The roles of response time and mutation threshold. Physical Review E—Statistical, Nonlinear, and Soft Matter Physics, 69(6):066122, 2004. 
+
 [8] Willemien Kets. The minority game: An economics perspective. arXiv preprint arXiv:0706.4432, 2007. 
+
 [9] Michael Kirley. Evolutionary minority games with small-world interactions. Physica A: Statistical Mechanics and its Applications, 365(2):521–528, 2006. 
+
 [10] Yann LeCun, Bernhard Boser, John S Denker, Donnie Henderson, Richard E Howard, Wayne Hubbard, and Lawrence D Jackel. Backpropagation applied to handwritten zip code recognition. Neural computation,
 1(4):541–551, 1989. 
+
 [11] TS Lo, HY Chan, PM Hui, and NF Johnson. Theory of networked minority games based on strategy pattern dynamics. Physical Review E—Statistical, Nonlinear, and Soft Matter Physics, 70(5):056102, 2004.
 
 [12] TS Lo, PM Hui, and NF Johnson. Theory of the evolutionary minority game. Physical Review E, 62(3):4393, 2000. 
+
 [13] Esteban Moro. The minority game: an introductory guide. arXiv preprint cond-mat/0402651, 2004. 
+
 [14 Daehyeon Park, Doojin Ryu, and Robert I Webb. Fear of missing out and market stability: A networked minority game approach. Physica A: Statistical Mechanics and its Applications, 634:129420, 2024. 
 [15] Shermila Ranadheera, Setareh Maghsudi, and Ekram Hossain. Minority games with applications to distributed decision making and control in wireless networks. IEEE Wireless Communications, 24(5):184–
 192, 2017. 
